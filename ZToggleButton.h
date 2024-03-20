@@ -5,6 +5,13 @@
 #include <QColor>
 #include <QPainter>
 
+
+/*
+* Written by shzy.
+* Happy for using.
+*/
+
+
 class ZToggleButton : public QWidget
 {
 	Q_OBJECT
